@@ -1,3 +1,3 @@
 # OSCP_notes
 
-* Cherrytree note repository about OSCP notes
+* Cherrytree note repository about OSCP/Penetration Test notes
